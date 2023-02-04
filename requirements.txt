@@ -1,0 +1,4 @@
+onnx
+torch
+openvino-dev
+pyrealsense2
